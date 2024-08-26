@@ -1,0 +1,17 @@
+# Direktori vendor untuk dependency Composer
+/vendor/
+
+# File Composer lock
+composer.lock
+
+# File log
+*.log
+
+# File dan direktori cache
+/.phpunit.result.cache
+/.vscode
+/.idea
+/.DS_Store
+
+# Direktori build
+/build/
